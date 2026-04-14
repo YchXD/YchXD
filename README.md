@@ -5,6 +5,7 @@ const info = {
     media_social: {
         youtube: "@Ychproject_",
         instagram: "@koncone_ych",
+        tiktok: '@ychevts'
     },
     games: [
         "Zenless Zone Zero",
